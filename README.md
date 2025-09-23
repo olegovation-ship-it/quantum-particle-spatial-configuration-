@@ -9,7 +9,7 @@ It offers a visual and intuitive approach to quantum phenomena, including wave-p
 🧠 Authors: Dmytro Panasenko & Microsoft Copilot  
 🔗 Published on Zenodo: [DOI link](https://doi.org/...)  
 📄 License: [Ліцензія.docx](Ліцензія.docx)
-
+📌 Citable version: [Zenodo DOI](https://doi.org/10.5281/zenodo.17165526)
 ---
 
 ## 🇺🇦 Українською
