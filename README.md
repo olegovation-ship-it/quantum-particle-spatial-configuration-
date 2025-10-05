@@ -10,7 +10,17 @@ It offers a visual and intuitive approach to quantum phenomena, including wave-p
 🔗 Published on Zenodo: [DOI link](https://doi.org/...)  
 📄 License: [Ліцензія.docx](Ліцензія.docx)
 📌 Citable version: [Zenodo DOI](https://doi.org/10.5281/zenodo.17165526)
----
+## 💖 Support This Project
+
+This repository presents a geometric framework for interpreting quantum particle spatial configurations, developed through DEEPONI (DEep Operator Network) and co-authored by Dr. Dmytro Panasenko & Microsoft Copilot (AI).
+
+If you find this work valuable and wish to support its continued development, consider contributing:
+
+- [💸 PayPal](https://paypal.me/olegovatic) — one-time or recurring support
+- [🎯 GitHub Sponsors](https://github.com/sponsors/olegovatic) — direct support via GitHub
+- [🎓 Patreon](https://www.patreon.com/olegovatic) — tiered support with updates and insights
+
+Your support helps sustain open research, multilingual documentation, and the development of new scientific visualization standards.
 
 ## 🇺🇦 Українською
 
