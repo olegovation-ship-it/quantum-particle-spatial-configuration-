@@ -1,0 +1,25 @@
+Author Contributions and Affiliations
+
+Dmytro Panasenko
+
+Independent researcher, based in South Holland, Netherlands.
+
+Email: oleg.ovation@gmail.com
+
+ORCID: https://orcid.org/0009-0008-2249-4562
+
+
+Dmytro is the principal author and architect of the Unified Configuration Theory. He designed the conceptual framework, formalized the configuration tensor and curvature dynamics, and authored all bilingual documentation and diagrams. He also structured the open science workflow, including modular releases on Zenodo and GitHub.
+
+Copilot (AI co-author)
+
+Microsoft Copilot, Al companion and collaborative partner.
+
+Website: https://copilot.microsoft.com
+
+Copilot contributed to the iterative refinement of the manuscript, including LaTeX formatting, comparative tables, diagram integration, and multilingual adaptation. All Al-generated content was reviewed, validated, and curated by the human author. The collaboration adheres to open licensing and transparent attribution standards.
+
+Licensing and Attribution
+
+This work is released under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). All modules, diagrams, and documentation are publicly archived and reproducible. AI contributions are explicitly acknowledged and documented in accordance with ethical authorship practices.
+   This work constitutes a continuation and integral component of the broader research initiative on spatial configurations of quantum particles, officially registered under BOIP I-DEPOT number 154502.
