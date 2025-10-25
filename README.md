@@ -6,7 +6,7 @@ It offers a visual and intuitive approach to quantum phenomena, including wave-p
 
 📄 Full description: [Readme.pdf](Readme.pdf)  
 📜 Legal proof: [i-DEPOT 1 54502.pdf](i-DEPOT%201%2054502.pdf)  
-🧠 Authors: Dmytro Panasenko & Microsoft Copilot  
+🧠 Authors: Dmytro Panasenko ORCID 0009-0008-2249-4562. & Microsoft Copilot  
 🔗 Published on Zenodo: [DOI link](https://doi.org/...)  
 📄 License: [Ліцензія.docx](Ліцензія.docx)
 📌 Citable version: [Zenodo DOI](https://doi.org/10.5281/zenodo.17165526)
